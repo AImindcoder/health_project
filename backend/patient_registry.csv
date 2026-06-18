@@ -1,0 +1,2 @@
+patient_id,name,age,gender,first_visit,last_visit,visit_count
+P_TEST,Unknown,Unknown,Unknown,2026-06-08,2026-06-08,1
